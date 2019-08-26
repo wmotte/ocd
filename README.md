@@ -2,7 +2,7 @@
 
 This repository contains the most important scripts used for the analysis conducted by the first autor of the following paper: 
 
-* Milou Straathof, Erwin L.A. Blezer, Caroline van Heijningen, Christel E. Smeele, Annette van der Toorn, TACTICS Consortium, Jan K. Buitelaar, Jeffrey C. Glennon, Willem M. Otte and Rick M. Dijkhuizen, ``Structural and functional MRI of altered brain development in a novel adolescent rat model of quinpirole-induced compulsive checking behavior'', under review.
+* Milou Straathof, Erwin L.A. Blezer, Caroline van Heijningen, Christel E. Smeele, Annette van der Toorn, TACTICS Consortium, Jan K. Buitelaar, Jeffrey C. Glennon, Willem M. Otte and Rick M. Dijkhuizen, "Structural and functional MRI of altered brain development in a novel adolescent rat model of quinpirole-induced compulsive checking behavior", under review.
 
 ## Study background
 
